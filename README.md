@@ -1,5 +1,5 @@
 # Edtech
-s
+
 # Students struggles with
 -what to studynext
 -time mngmt
