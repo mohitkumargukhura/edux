@@ -9,7 +9,6 @@ class SplashPage extends StatefulWidget {
 }
 
 class _SplashPageState extends State<SplashPage> {
-
   @override
   void initState() {
     super.initState();
@@ -29,7 +28,7 @@ class _SplashPageState extends State<SplashPage> {
     return const Scaffold(
       body: Center(
         child: Text(
-          'eduX',
+          'EDTECH',
           style: TextStyle(
             fontSize: 32,
             fontWeight: FontWeight.bold,
