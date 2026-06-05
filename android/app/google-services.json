@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1086607525009",
+    "project_id": "eduxions",
+    "storage_bucket": "eduxions.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086607525009:android:4b1d52cc035288a8536b30",
+        "android_client_info": {
+          "package_name": "com.example.edux"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMoogYOQzbFhoyN7XvKhBdX62zeVdweSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
